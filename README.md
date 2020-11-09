@@ -1,2 +1,2 @@
-# cherokee_dictionary
+# Cherokee dictionary
  
