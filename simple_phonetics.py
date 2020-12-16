@@ -1,5 +1,4 @@
 import sys
-import re
 
 # Dictionary mapping syllabary to simple phonetics values.
 simple_phone_dict = {'Ꭰ': 'a', 'Ꭱ': 'e', 'Ꭲ': 'i', 'Ꭳ': 'o',
